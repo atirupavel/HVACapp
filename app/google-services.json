@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "229463309676",
+    "firebase_url": "https://hvacapp-badc9.firebaseio.com",
+    "project_id": "hvacapp-badc9",
+    "storage_bucket": "hvacapp-badc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229463309676:android:94b6c667c73e3289",
+        "android_client_info": {
+          "package_name": "com.example.admin.hvacapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229463309676-6188f61v7pe85ju6nmqaunevshbpra9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.hvacapp",
+            "certificate_hash": "22c0055abaead96dd33cf48e3baa98ab4a8637d6"
+          }
+        },
+        {
+          "client_id": "229463309676-7st0m6foqkbfckftk03gsgatscp4qrul.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "229463309676-7st0m6foqkbfckftk03gsgatscp4qrul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8E8e2x9Ohs18DBQ6YQpT5yq4eHzaKT5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229463309676-7st0m6foqkbfckftk03gsgatscp4qrul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

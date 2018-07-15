@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.admin.hvacapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".signupActivity" />
+        <activity android:name=".loginActivity" />
+        <activity android:name=".profileActivity" />
+        <activity android:name=".signupActivity2" />
+        <activity android:name=".loginActivity2" />
+        <activity android:name=".ratingActivity" />
+        <activity android:name=".awardActivity" />
+        <activity android:name=".viewActivity" />
+        <activity android:name=".loginActivity1" />
+        <activity android:name=".bankdetailsActivity" />
+        <activity android:name=".projectdetailsActivity" />
+        <activity android:name=".projectdetailsActivity2" />
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".ratingActivity2"></activity>
+    </application>
+
+</manifest>
